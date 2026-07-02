@@ -19,10 +19,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-
-
 ## 🛠 Languages and Tools
 
 <p align="left">
